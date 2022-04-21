@@ -25,7 +25,7 @@ body {
     
 }
 .main-card .header-img {
-    background: url(images/image-header-mobile.jpg) no-repeat top/cover;
+    background: url(image-header-mobile.jpg) no-repeat top/cover;
     height: 300px;
     width: clamp(200px, 100%, 500px);
     border-radius: 15px 15px 0 0 ;
@@ -81,7 +81,7 @@ body {
 
 @media screen and (min-width: 1180px) {
     .main-card .header-img {
-        background: url(images/image-header-desktop.jpg) no-repeat top/cover;
+        background: url(image-header-desktop.jpg) no-repeat top/cover;
     }
     .main-card {
         display: flex;
